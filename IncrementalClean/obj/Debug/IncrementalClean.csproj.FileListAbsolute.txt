@@ -1,4 +1,3 @@
-C:\src\IncrementalClean\IncrementalClean\bin\Debug\TextFile-Indirect.txt
 C:\src\IncrementalClean\IncrementalClean\bin\Debug\TextFile-Direct.txt
 C:\src\IncrementalClean\IncrementalClean\bin\Debug\IncrementalClean.exe.config
 C:\src\IncrementalClean\IncrementalClean\bin\Debug\IncrementalClean.exe
