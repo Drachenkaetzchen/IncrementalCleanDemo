@@ -1,0 +1,9 @@
+C:\src\IncrementalClean\ClassLibrary1\bin\Debug\TextFile-Indirect.txt
+C:\src\IncrementalClean\ClassLibrary1\bin\Debug\TextFile-Direct.txt
+C:\src\IncrementalClean\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\src\IncrementalClean\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\src\IncrementalClean\ClassLibrary1\bin\Debug\ClassLibraryIndirect.dll
+C:\src\IncrementalClean\ClassLibrary1\bin\Debug\ClassLibraryIndirect.pdb
+C:\src\IncrementalClean\ClassLibrary1\obj\Debug\ClassLibraryDirect.csprojResolveAssemblyReference.cache
+C:\src\IncrementalClean\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\src\IncrementalClean\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
